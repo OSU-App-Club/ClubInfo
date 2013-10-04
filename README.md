@@ -3,6 +3,8 @@ ClubInfo
 
 Here is where general information about the club will be posted.
 
+If you want to look at a much prettier version (I can't imagine why not), go to http://osu-ios-app-club.github.io/ClubInfo
+
 
 Current Notices
 ===============
