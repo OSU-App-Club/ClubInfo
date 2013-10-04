@@ -16,4 +16,4 @@ How to Join
 Questions
 =========
 
-If you ever have any questions, feel free to send the group an email with iPhone@lists.oregonstate.edu or to me (Chris) directly at vandersc@onid.orst.edu
+If you ever have any questions, feel free to send the group an email with iPhone@lists.oregonstate.edu or to me (Chris) directly at vandersc@onid.oregonstate.edu
