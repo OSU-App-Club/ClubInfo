@@ -3,7 +3,7 @@ ClubInfo
 
 Here is where general information about the club will be posted.
 
-If you want to look at a much prettier version (I can't imagine why not), go to http://osu-ios-app-club.github.io/ClubInfo
+If you want to look at a much prettier version (I can't imagine why not), go to http://osu-app-club.github.io/ClubInfo
 
 
 Current Notices
@@ -22,4 +22,4 @@ How to Join
 Questions
 =========
 
-If you ever have any questions, feel free to send the group an email with iPhone@lists.oregonstate.edu or to me (Chris) directly at vandersc@onid.oregonstate.edu
+If you ever have any questions, feel free to send the group an email with iPhone@lists.oregonstate.edu or to me ([Chris](https://github.com/cvanderschuere)) directly at vandersc@onid.oregonstate.edu
