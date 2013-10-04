@@ -4,6 +4,10 @@ ClubInfo
 Here is where general information about the club will be posted.
 
 
+Current Notices
+===============
+Checkout out the UpcomingEvents.md for some of the things in the works.
+
 
 How to Join
 ===========
