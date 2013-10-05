@@ -8,16 +8,14 @@ If you want to look at a much prettier version (I can't imagine why not), go to 
 
 Current Notices
 ===============
-Checkout out the UpcomingEvents.md for some of the things in the works.
+Checkout out the [UpcomingEvents](https://github.com/OSU-App-Club/ClubInfo/blob/master/UpcomingEvents.md) for some of the things in the works.
 
 
 How to Join
 ===========
 
-1 Join the mail list
-  * A key way we get in contact with eachother is through the email list. It is very important that you sign yourself up to recieve these messages.
-  *  Signup on this page: http://lists.oregonstate.edu/mailman/listinfo/iphone
-
+1 Join the [mail list](http://lists.oregonstate.edu/mailman/listinfo/iphone)
+  * A key way we get in contact with each other is through the email list. It is very important that you sign yourself up to receive these messages.
 
 Questions
 =========
