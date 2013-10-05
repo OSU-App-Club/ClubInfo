@@ -4,6 +4,7 @@ A tentative schedule for club meetings
 
 ##Meeting 1: Introductions
 * Meet the team
+* Upcoming events (Microsoft coding challenge)
 * Figure out interests
      1  What iOS game to make?
 
