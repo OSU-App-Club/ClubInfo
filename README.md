@@ -13,7 +13,7 @@ Checkout the [Upcoming Events](https://github.com/OSU-App-Club/ClubInfo/blob/mas
 How to Join
 ===========
 
-1 Join the [mail list](http://lists.oregonstate.edu/mailman/listinfo/iphone)
+1 Join the [mail list](https://secure.engr.oregonstate.edu/mailman/listinfo/app-club)
   * A key way we get in contact with each other is through the email list. It is very important that you sign yourself up to receive these messages.
 
 2  Come to a meeting
