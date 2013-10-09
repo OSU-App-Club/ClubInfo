@@ -8,7 +8,8 @@ If you want to look at a much prettier version (I can't imagine why not), go to 
 
 Current Notices
 ===============
-Checkout the [Upcoming Events](https://github.com/OSU-App-Club/ClubInfo/blob/master/UpcomingEvents.md) for some of the things in the works.
+* First meeting: __10/9 at 6pm in the Kelley Atrium__ (by the piano)
+* Checkout the [Upcoming Events](https://github.com/OSU-App-Club/ClubInfo/blob/master/UpcomingEvents.md) for some of the things in the works.
 
 How to Join
 ===========
