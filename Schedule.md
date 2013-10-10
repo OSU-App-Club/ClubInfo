@@ -21,8 +21,8 @@ A tentative schedule for club meetings
 ***
 
 ##Meeting Ideas
-* Group brainstorm for project ideas
 * Learn about databases
     - Learn about how iOS and Android usually implement databases (e.g. do they use SQL?)
     - What are the interfaces with these databases?
+* Group brainstorm for project ideas
 
