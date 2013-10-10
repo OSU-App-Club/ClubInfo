@@ -15,7 +15,7 @@ Feel free to add your suggestion in the following table:
 | :------: | :----------------: | :-------------------------------------: | :-------------: |
 | Sudoku Solver | Cloud Integration | All | @ryleyherrington |
 | Brainstorming Aid | Social/database | iOS | @russellbarnes |
-| MTG Manabase Calculator | Cloud Suggestions | @stormcynk (Chris K.)|
+| MTG Manabase Calculator | Cloud Suggestions | Android | @stormcynk (Chris K.)|
  
 
 
