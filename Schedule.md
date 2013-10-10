@@ -17,5 +17,11 @@ A tentative schedule for club meetings
 
 ##Meeting 5: iOS Game (Tetris?)
 
- 
+***
+
+##Meeting Ideas
+* Group brainstorm for project ideas
+* Learn about databases
+     1 Learn about how iOS and Android usually implement databases (e.g. do they use SQL?)
+     2 What are the interfaces with these databases?
 
