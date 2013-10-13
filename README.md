@@ -17,9 +17,9 @@ How to Join
 
 1 Join the [mail list](https://secure.engr.oregonstate.edu/mailman/listinfo/app-club)
   * A key way we get in contact with each other is through the email list. It is very important that you sign yourself up to receive these messages.
-
+  * Checkout the [archive](http://engineering.oregonstate.edu/mailman/archives/public/app-club/2013-October/thread.html) for past messages
 2  Come to a meeting
-  * Meeting times haven't been decided for Fall 2013 yet, but there will be an email and this website will be updated. Here is the [doodle](http://doodle.com/ru2kfzdkwgvqku56) for the fall term meeting.
+  * Tuesdays 6-8pm in Kidder 033
 
 Questions
 =========
