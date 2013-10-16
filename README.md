@@ -8,7 +8,7 @@ If you want to look at a much prettier version (I can't imagine why not), go to 
 
 Current Notices
 ===============
-* First meeting: __10/9 at 6pm in the Kelley Atrium__ (by the piano)
+* Meetings: __6-8pm in the Kidder 033__
 * Add any project suggestions to the [Club Project Suggestions](https://github.com/OSU-App-Club/ClubInfo/blob/master/ProjectSuggestions.md)
 * Checkout the [Upcoming Events](https://github.com/OSU-App-Club/ClubInfo/blob/master/UpcomingEvents.md) for some of the things in the works.
 
