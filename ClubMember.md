@@ -15,3 +15,4 @@ This is where you can add your name
 * Carly Farr
 * Alex Piatski
 * Tony Twyman
+* Jonah George
