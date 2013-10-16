@@ -12,6 +12,6 @@ This is where you can add your name
 * Yuanyuan Wu (YY)
 * 
 
-* Add you name here 
+* Carly Farr
 * Alex Piatski
 * Tony Twyman
