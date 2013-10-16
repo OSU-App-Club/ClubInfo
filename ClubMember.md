@@ -12,6 +12,9 @@ This is where you can add your name
 * Yuanyuan Wu (YY)
 * Russell Barnes
 
-* Add you name here 
+* Carly Farr
 * Alex Piatski
-* 
+* Tony Twyman
+* Jonah George
+* Anton Dovzhik
+* Nathan Woodworth
