@@ -10,12 +10,18 @@ A tentative schedule for club meetings
 
 ##Meeting 2: Git & Github
 
-##Meeting 3: Group project
+##Meeting 3: Intro to Android & iOS
+* Learn about the IDE
+* See an example of the language
+* Make a Hello World app
+* Cool Stuff
+
+##Meeting 4: Group project
 * Try using git/github with existing project (iOS: Calculator)
 
-##Meeting 4: Google App Engine: Sudoku Solver
+##Meeting 5: Google App Engine: Sudoku Solver
 
-##Meeting 5: iOS Game (Tetris?)
+##Meeting 6: iOS Game (Tetris?)
 
 
 ***
