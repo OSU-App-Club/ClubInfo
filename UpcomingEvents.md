@@ -1,6 +1,7 @@
 Microsoft Coding Competition (10/25)
 ============================
 
-* Microsoft has offered to host a coding competition, complete with free food and drinks, for the app club. The competition would be a friday (10/25) for ~4 hours. I think it would be a good experience for club members to interact and get a programming experience.
-* Note: I will make sure this is open to anyone (programming wizard, computer science 1st year, biology major, etc.) so all should come if they can.
-* Doodle poll for best times: http://doodle.com/hbyvx7v8nzy4q2dx
+* *Kelley 1001 - 6:00-9:30pm*
+  * Do you love to code? Want to show off your skills? Come out and prove your brain power. 
+  * Work alone or in teams of 1-3 to solve a series of coding challenges for your chance to win $150 and a Surface RT! 
+  * Bring your laptop, power cord, and your A-Game.
