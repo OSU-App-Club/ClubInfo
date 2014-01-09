@@ -16,6 +16,7 @@ Feel free to add your suggestion in the following table:
 | Sudoku Solver | Cloud Integration | All | @ryleyherrington |
 | MTG Manabase Calculator | Cloud Suggestions | Android | @stormcynk (Chris K.)|
 | Demo push notifications / Urban Airship | Push | iOS and Android | @russellbarnes |
+| Async demo | How to do things asynchronously (web stuff) | iOS | @cvanderschuere | 
  
 
 
