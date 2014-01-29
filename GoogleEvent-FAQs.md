@@ -10,11 +10,11 @@
 
 3. What should I bring to the Google Event?
   
-        * Laptop
-        * Charger
-        * Device (Android/iOS) and USB cable
+    1.  Laptop
+    2.  Charger
+    3.  Device (Android/iOS) and USB cable
 
-        __If you don't have access to one of these things, let us know. We should be able to provide laptops and devices for anyone that needs one.__
+    __If you don't have access to one of these things, let us know. We should be able to provide laptops and devices for anyone that needs one.__
         
 4. How do I get access to a mac laptop?
 
