@@ -8,7 +8,7 @@ If you want to look at a much prettier version (I can't imagine why not), go to 
 
 Current Notices
 ===============
-* Meetings: __Mondays 4-6pm in Kelley 1007__
+* Meetings: __Tuesdays 4-6pm in Kelley 1007__
 * Add any project suggestions to the [Club Project Suggestions](https://github.com/OSU-App-Club/ClubInfo/blob/master/ProjectSuggestions.md)
 * Checkout the [Upcoming Events](https://github.com/OSU-App-Club/ClubInfo/blob/master/UpcomingEvents.md) for some of the things in the works.
 
@@ -20,7 +20,7 @@ How to Join
   * Checkout the [archive](http://engineering.oregonstate.edu/mailman/archives/public/app-club/2013-October/thread.html) for past messages
 
 2 Come to a meeting
-  * Mondays 4-6pm in Kelley 1007
+  * Tuesdays 4-6pm in Kelley 1007
 
 Questions
 =========
