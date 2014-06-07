@@ -8,7 +8,7 @@ If you want to look at a much prettier version (I can't imagine why not), go to 
 
 Current Notices
 ===============
-* Meetings: __Tuesdays 4-6pm in Kelley 1007__
+* Meetings: Fall 2014 TBD (no scheduled meetings over summer)
 * Add any project suggestions to the [Club Project Suggestions](https://github.com/OSU-App-Club/ClubInfo/blob/master/ProjectSuggestions.md)
 * Checkout the [Upcoming Events](https://github.com/OSU-App-Club/ClubInfo/blob/master/UpcomingEvents.md) for some of the things in the works.
 
