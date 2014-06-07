@@ -20,7 +20,7 @@ How to Join
   * Checkout the [archive](http://engineering.oregonstate.edu/mailman/archives/public/app-club/2013-October/thread.html) for past messages
 
 2 Come to a meeting
-  * Tuesdays 4-6pm in Kelley 1007
+  * Fall 2014 TBD (no scheduled meetings over summer)
 
 Questions
 =========
