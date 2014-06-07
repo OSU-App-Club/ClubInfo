@@ -1,34 +1,45 @@
-<!DOCTYPE html>
+<!doctype html>
 <html>
   <head>
-    <meta charset='utf-8'>
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
-
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
     <title>Club Information by OSU-App-Club</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="javascripts/main.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
   </head>
-
   <body>
-    <header>
-      <div class="inner">
-        <h1>Club Information</h1>
-        <h2>OSU App Club: General Information</h2>
-        <a href="https://github.com/OSU-App-Club/ClubInfo" class="button"><small>View project on</small>GitHub</a>
-      </div>
-    </header>
 
-    <div id="content-wrapper">
-      <div class="inner clearfix">
-        <section id="main-content">
-          <h1>
+      <header>
+        <h1>Club Information</h1>
+        <p>OSU App Club: General Information</p>
+      </header>
+
+      <div id="banner">
+        <span id="logo"></span>
+
+        <a href="https://github.com/OSU-App-Club/ClubInfo" class="button fork"><strong>View On GitHub</strong></a>
+        <div class="downloads">
+          <span>Downloads:</span>
+          <ul>
+            <li><a href="https://github.com/OSU-App-Club/ClubInfo/zipball/master" class="button">ZIP</a></li>
+            <li><a href="https://github.com/OSU-App-Club/ClubInfo/tarball/master" class="button">TAR</a></li>
+          </ul>
+        </div>
+      </div><!-- end banner -->
+
+    <div class="wrapper">
+      <nav>
+        <ul></ul>
+      </nav>
+      <section>
+        <h1>
 <a name="osu-app-club" class="anchor" href="#osu-app-club"><span class="octicon octicon-link"></span></a>OSU App Club</h1>
 
 <p>A place for you to come learn, work, and even play with mobile applications. We will be working with iOS and Android from start to finish. Members are welcome from any experience level. </p>
@@ -38,15 +49,13 @@
 <ul>
 <li> iOS (iPhone/iPad): <a href="https://github.com/cvanderschuere">Chris Vanderschuere</a>
 </li>
-<li> Android: <a href="https://github.com/ryleyherrington">Ryley Herrington</a>
-</li>
-<li> Titanium (iOS/Android): <a href="https://github.com/blacklotusi">Nicole Phelps</a>
+<li> Android: <a href="https://github.com/EdgySwingsetAcid">Phillip Carter</a>
 </li>
 </ul><h1>
 <a name="current-notices" class="anchor" href="#current-notices"><span class="octicon octicon-link"></span></a>Current Notices</h1>
 
 <ul>
-<li> Meetings decided: Tuesdays 4-6pm in Kelley 1007</li>
+<li> Meetings decided: Fall 2014 TBD (no scheduled meetings over summer)</li>
 <li> Check out the <a href="https://github.com/OSU-App-Club/ClubInfo/blob/master/UpcomingEvents.md">Upcoming Events</a> for some of the things in the works.</li>
 </ul><h1>
 <a name="how-to-join" class="anchor" href="#how-to-join"><span class="octicon octicon-link"></span></a>How to Join</h1>
@@ -59,31 +68,19 @@
 </ul><p>2  Come to a meeting</p>
 
 <ul>
-<li>Tuesdays 4-6pm in Kelley 1007</li>
+<li>Fall 2014 TBD (no scheduled meetings over summer)</li>
 </ul><h1>
 <a name="questions" class="anchor" href="#questions"><span class="octicon octicon-link"></span></a>Questions</h1>
 
 <p>If you ever have any questions, feel free to send the group an email with <a href="mailto:app-club@engr.orst.edu">app-club@engr.orst.edu</a> or to me (<a href="https://github.com/cvanderschuere">Chris</a>) directly at <a href="mailto:vandersc@onid.oregonstate.edu">vandersc@onid.oregonstate.edu</a></p>
-        </section>
-
-        <aside id="sidebar">
-          <a href="https://github.com/OSU-App-Club/ClubInfo/zipball/master" class="button">
-            <small>Download</small>
-            .zip file
-          </a>
-          <a href="https://github.com/OSU-App-Club/ClubInfo/tarball/master" class="button">
-            <small>Download</small>
-            .tar.gz file
-          </a>
-
-          <p class="repo-owner"><a href="https://github.com/OSU-App-Club/ClubInfo"></a> is maintained by <a href="https://github.com/OSU-App-Club">OSU-App-Club</a>.</p>
-
-          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the Architect theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.</p>
-        </aside>
-      </div>
+      </section>
+      <footer>
+        <p>Project maintained by <a href="https://github.com/OSU-App-Club">OSU-App-Club</a></p>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
+      </footer>
     </div>
-
-            <script type="text/javascript">
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+              <script type="text/javascript">
             var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
             document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
           </script>
