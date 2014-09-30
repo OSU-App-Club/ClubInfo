@@ -25,4 +25,4 @@ How to Join
 Questions
 =========
 
-If you ever have any questions, feel free to send the group an email with app-club@engr.orst.edu or to me ([Chris](https://github.com/cvanderschuere)) directly at vandersc@onid.oregonstate.edu
+If you ever have any questions, feel free to send the group an email with app-club@engr.orst.edu or to me ([Phillip](https://github.com/cartermp)) directly at carterp@onid.oregonstate.edu
