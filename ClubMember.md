@@ -4,7 +4,9 @@ Club Members
 This is where you can add your name 
 
 
-
+* Phillip Carter
+* Jim Schneidereit
+* Rikki Gibson
 * Chris Vanderschuere
 * Ryley Herrington
 * Nicole Phelps
