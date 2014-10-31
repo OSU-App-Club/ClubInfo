@@ -9,16 +9,26 @@ The focus will be on Android and Google Techologies for mobile.  All skill level
 Rough Schedule:
 --------------
 
-Saturday 9/15:
+__Saturday 9/15:__
+
 9am: Introductions, breakfast and coffee, app development primer
+
 10am: Hack away!
+
 12pm: Lunch served
+
 12:30pm: Hack away!
+
 5pm: Dinner served
+
 5:30pm: Hack away
+
 9pm: Get some sleep
 
-Sunday 9/16:
+__Sunday 9/16:__
+
 9am: Breakfast and coffee, last minutes to piece things together
+
 10am-11am: Presentations and prizes
+
 12pm: Head home and do homework :(
