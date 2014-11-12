@@ -25,6 +25,6 @@ __Sunday 9/16:__
 
 9am: More work, hopefully finalizing things
 
-12pm: Presentations and prizes
+12pm: Presentations, prizes, and pizza
 
-12pm: Head home and do homework :(
+1pm: Head home and do homework :(
