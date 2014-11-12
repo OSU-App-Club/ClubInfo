@@ -13,22 +13,18 @@ __Saturday 9/15:__
 
 9am: Introductions, breakfast and coffee, app development primer
 
-10am: Hack away!
+10am: Work work work work work
 
 12pm: Lunch served
 
-12:30pm: Hack away!
+12:30pm: Work work work work work
 
-5pm: Dinner served
-
-5:30pm: Hack away
-
-9pm: Get some sleep
+9pm: Hopefully head home to get some sleep
 
 __Sunday 9/16:__
 
-9am: Breakfast and coffee, last minutes to piece things together
+9am: More work, hopefully finalizing things
 
-10am-11am: Presentations and prizes
+12pm: Presentations and prizes
 
 12pm: Head home and do homework :(
