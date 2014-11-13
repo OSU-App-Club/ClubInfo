@@ -8,6 +8,8 @@ If you want to look at a much prettier version (I can't imagine why not), go to 
 
 Current Notices
 ===============
+* Hackathon this weekend! We'll be meeting up in 1003 & 1001 in Kelley on Saturday @ 9 a.m, and Wngr 151 on Sunday.
+
 * Meetings: Fall 2014 MW at 6pm, KEC 1007
 * Add any project suggestions to the [Club Project Suggestions](https://github.com/OSU-App-Club/ClubInfo/blob/master/ProjectSuggestions.md)
 * Checkout the [Upcoming Events](https://github.com/OSU-App-Club/ClubInfo/blob/master/UpcomingEvents.md) for some of the things in the works.
