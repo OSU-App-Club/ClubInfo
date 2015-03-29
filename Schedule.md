@@ -1,34 +1,23 @@
 Schedule
 ========
-A tentative schedule for club meetings
+Meeting times and places for Spring 2015
 
-##Meeting 1: Introductions
-* Meet the team
-* Upcoming events (Microsoft coding challenge)
-* Figure out interests
-     1  What iOS game to make?
-
-##Meeting 2: Git & Github
-
-##Meeting 3: Intro to Android & iOS
-* Learn about the IDE
-* See an example of the language
-* Make a Hello World app
-* Cool Stuff
-
-##Meeting 4: Group project
-* Try using git/github with existing project (iOS: Calculator)
-
-##Meeting 5: Google App Engine: Sudoku Solver
-
-##Meeting 6: iOS Game (Tetris?)
-
-
-***
-
-##Meeting Ideas
-* Learn about databases
-    - Learn about how iOS and Android usually implement databases (e.g. do they use SQL?)
-    - What are the interfaces with these databases?
-* Group brainstorm for project ideas
-
+apr 1   KEC 1007 @ 6pm
+apr 6   KEC 1005 @ 6pm
+apr 8   KEC 1007 @ 6pm
+apr 13  KEC 1007 @ 6pm
+apr 15  KEC 1007 @ 6pm
+apr 20  KEC 1005 @ 6pm
+apr 22  KEC 1007 @ 6pm
+apr 27  KEC 1005 @ 6pm
+apr 29  KEC 1005 @ 6pm
+may 4   KEC 1007 @ 6pm
+may 6   KEC 1007 @ 6pm
+may 11  KEC 1005 @ 6pm
+may 13  KEC 1007 @ 6pm
+may 18  KEC 1005 @ 6pm
+may 20  KEC 1007 @ 6pm
+may 25  KEC 1007 @ 6pm
+may 27  KEC 1007 @ 6pm
+jun 1   KEC 1007 @ 6pm
+jun 3   KEC 1007 @ 6pm
