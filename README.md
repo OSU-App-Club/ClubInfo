@@ -21,7 +21,7 @@ How to Join
   * Checkout the [archive](http://engineering.oregonstate.edu/mailman/archives/public/app-club/2013-October/thread.html) for past messages
 
 2 Come to a meeting
-  * Winter 2015 - MW @ 6pm, KEC 1007
+  * Spring 2015 - MW @ 6pm, KEC 1007
 
 Questions
 =========
