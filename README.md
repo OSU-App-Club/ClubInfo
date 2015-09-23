@@ -9,7 +9,7 @@ If you want to look at a much prettier version (I can't imagine why not), go to 
 Current Notices
 ===============
 
-* Meetings: Winter 2015 Mondays & Wednesdays @ 6pm, KEC 1007
+* Meetings: Fall 2015 Wednesdays @ 6pm, KEC 1007
 * Add any project suggestions to the [Club Project Suggestions](https://github.com/OSU-App-Club/ClubInfo/blob/master/ProjectSuggestions.md)
 * Checkout the [Upcoming Events](https://github.com/OSU-App-Club/ClubInfo/blob/master/UpcomingEvents.md) for some of the things in the works.
 
@@ -26,4 +26,4 @@ How to Join
 Questions
 =========
 
-If you ever have any questions, feel free to send the group an email with app-club@engr.orst.edu or to me ([Phillip](https://github.com/cartermp)) directly at carterp@onid.oregonstate.edu
+If you ever have any questions, feel free to send the group an email with app-club@engr.orst.edu or to ([Rutger](https://github.com/rutgerfarry)) directly at farryr@onid.oregonstate.edu.
