@@ -4,7 +4,9 @@ A set of tools to aid learning various components of app development. If you kno
 
 
 ##iOS
-  * iOS Video lecture- [iTunesU CS 193p (Paul Hegarty)](https://itunes.apple.com/gb/course/coding-together-developing/id593208016)
+  * [iOS Dev Weekly](https://iosdevweekly.com)
+  * [Developing iOS 8 Apps With Swift – Stanford U](https://itunes.apple.com/us/course/developing-ios-8-apps-swift/id961180099)
+  * [This week in Swift](https://swiftnews.curated.co)
 
 ##Cloud
   * Go tutorial - [golang.org](http://tour.golang.org/#1)
